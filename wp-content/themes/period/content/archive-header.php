@@ -24,6 +24,7 @@ if ( is_tag() ) {
 }
 ?>
 
+<!--
 <div class='archive-header'>
 	<h1>
 		<i class="fas fa-<?php echo $icon_class; ?>" aria-hidden="true"></i>
@@ -31,3 +32,4 @@ if ( is_tag() ) {
 	</h1>
 	<?php the_archive_description(); ?>
 </div>
+-->
